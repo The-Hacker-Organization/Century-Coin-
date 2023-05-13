@@ -1,3 +1,3 @@
-# README.md
-# Century Coin is a digital currency which allows each Individual to Mine and Earn Century Coin (CCoins) using their mobile phone for  free. 
+# Description :
+## Century Coin is a digital currency which allows Individuals to Mine and Earn rewards for free using their Smartphone. 
 
